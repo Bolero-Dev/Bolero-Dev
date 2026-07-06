@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**Bolero-Dev/Bolero-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Liza Sloane
 
-Here are some ideas to get you started:
+QA Automation Engineer · iOS Developer · Open to contract work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in making software that is stable, user friendly, and safe.
+
+What I do
+
+I find failure points in existing systems and build tooling that keeps them from coming back. Background: QA validation at Intel (via Cinder), iOS application testing at Sorenson Communications, and independent iOS development — including an app shipped and maintained on the App Store.
+
+Highlighted work
+
+
+Unwind — Native iOS mindfulness app, live on the App Store. Swift/SwiftUI, built and shipped solo.
+Frost Sentinel — Offline-first garden frost warnings. REST (Open-Meteo) + Core Data + an Objective-C calculation layer bridged into Swift, tested across all three.
+Pothos — Windows diagnostic collector: Event Viewer errors + crash dumps to a linked PDF report in one click. Python, 27 tests, CI on Ubuntu + Windows.
+Columbine — Python test triage & run tool: sort cases into suites, execute, emit JUnit XML. pytest suite + CI.
+ACB Thesis — Independent research: a behavioral protocol for ambiguity handling in RLHF-aligned language models, pilot-tested across four model families.
+Companion Plant — iOS composition system with structured asset rendering and meaning-based search. Private repository (patent pending) — demo available on request.
+
+
+Stack
+
+Swift SwiftUI Objective-C Python JSON Core Data Git Jira Jenkins Xcode TestFlight
