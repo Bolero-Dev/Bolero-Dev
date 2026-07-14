@@ -39,8 +39,7 @@ became a filing system.
 - **Companion Plant** — the biggest one, and the one I can't show you yet.
   Private repo, patent pending. Demo available on request.
 
-Every public repo above has a test suite running in CI. I wouldn't trust a
-QA engineer whose own code ships untested, and neither should you.
+Every public repo above has a test suite running in CI. I believe stable and maintainable code is the backbone behind every great application, so I code for the developer after me. 
 
 ## Stack
 
