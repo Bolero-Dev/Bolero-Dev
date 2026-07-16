@@ -2,13 +2,13 @@
 
 **QA Automation Engineer · iOS Developer**
 
-I build software that respects the person using it, and I test it with user autonomy and ease in mind— because nobody wants to spend hours setting up a tool for a task that would've normally taken 15 minutes.
+I build software that respects the person using it, and I test it with user autonomy and ease in mind— because nobody wants to spend hours setting up a tool for a task that would normally take 15 minutes.
 
 My job in one sentence: I find out how software fails before it gets the
 chance to fail on you. I did that for two years at Intel (via Cinder) on a
-publicly shipped product, before that at Sorenson Communications testing iOS
-apps, and these days I do it for my own work — including an app I built,
-shipped, and maintain on the App Store.
+globally shipped product, and before that at Sorenson Communications testing iOS
+apps. These days I do it for my own work — including an app that I built,
+shipped, and actively maintain on the App Store.
 
 ## The garden
 
