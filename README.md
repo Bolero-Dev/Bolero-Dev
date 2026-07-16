@@ -26,7 +26,7 @@ became a filing system.
 - **[Pothos](https://github.com/Bolero-Dev/Pothos)** — one click collects
   everything Windows knows about an app's failures into a linked PDF report.
   Python, 27 tests, CI on Ubuntu + Windows.
-- **[Columbine](https://github.com/Bolero-Dev/Columbine)** — sort test cases
+- **[Citronella](https://github.com/Bolero-Dev/Citronella)** — sort test cases
   into suites, run them, get JUnit XML out. A public rebuild of tooling I
   built on the job.
 - **[Unwind](https://github.com/Bolero-Dev/Unwind)** — the one that isn't a
