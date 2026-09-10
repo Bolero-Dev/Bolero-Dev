@@ -1,3 +1,6 @@
+<!-- This is the README.md in the Bolero-Dev/Bolero-Dev repo —
+     it renders at the top of github.com/Bolero-Dev. -->
+
 # Liza Sloane
 
 **QA Automation Engineer · iOS Developer**
@@ -20,7 +23,7 @@ became a filing system.
   Selenium, settled with evidence instead of opinions: one app built to be
   tested, both frameworks covering the same flows, 42 tests in CI. The README
   is the verdict.
-- **[Frost Sentinel](https://github.com/Bolero-Dev/Frost-Sentinel)** — cover
+- **[Plant Sentinel](https://github.com/Bolero-Dev/Plant-Sentinel)** — cover
   it tonight? water it before tomorrow's heat? Offline-first iOS: REST + Core
   Data + an Objective-C rules engine bridged into Swift, all three layers
   tested.
