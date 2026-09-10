@@ -2,13 +2,14 @@
 
 **QA Automation Engineer · iOS Developer**
 
-I build software that respects the person using it, and I test it with user autonomy and ease in mind— because nobody wants to spend hours setting up a tool for a task that would normally take 15 minutes.
+I build software that respects the person using it, and I test it like
+someone's day depends on it — because someone's usually does.
 
 My job in one sentence: I find out how software fails before it gets the
 chance to fail on you. I did that for two years at Intel (via Cinder) on a
-globally shipped product, and before that at Sorenson Communications testing iOS
-apps. These days I do it for my own work — including an app that I built,
-shipped, and actively maintain on the App Store.
+publicly shipped product, before that at Sorenson Communications testing iOS
+apps, and these days I do it for my own work — including an app I built,
+shipped, and maintain on the App Store.
 
 ## The garden
 
@@ -19,7 +20,7 @@ became a filing system.
   Selenium, settled with evidence instead of opinions: one app built to be
   tested, both frameworks covering the same flows, 42 tests in CI. The README
   is the verdict.
-- **[Plant Sentinel](https://github.com/Bolero-Dev/Plant-Sentinel)** — cover
+- **[Frost Sentinel](https://github.com/Bolero-Dev/Frost-Sentinel)** — cover
   it tonight? water it before tomorrow's heat? Offline-first iOS: REST + Core
   Data + an Objective-C rules engine bridged into Swift, all three layers
   tested.
@@ -33,13 +34,15 @@ became a filing system.
   plant. A quiet breathing-and-journaling app, live on the
   [App Store](https://apps.apple.com/us/app/unwind-breathe-recenter/id6780092148).
   No account, no cloud, no data collection.
-- **[ACB Thesis](https://github.com/Bolero-Dev/ACB-Thesis.md)** — independent
+- **[ACB Thesis](https://github.com/Bolero-Dev/ACB-Thesis)** — independent
   research on how language models handle ambiguity when the stakes are high,
   tested across four model families.
 - **Companion Plant** — the biggest one, and the one I can't show you yet.
   Private repo, patent pending. Demo available on request.
 
-Every public repo above has a test suite running in CI. I believe stable and maintainable code is the backbone behind every great application, so I code for the developer after me. 
+Every public repo above has a test suite running in CI. I believe stable and
+maintainable code is the backbone behind every great application, so I code
+for the developer after me.
 
 ## Stack
 
